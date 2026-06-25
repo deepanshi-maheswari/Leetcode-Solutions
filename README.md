@@ -64,4 +64,12 @@
 |  |
 | ------- |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
