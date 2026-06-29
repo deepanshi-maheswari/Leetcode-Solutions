@@ -57,6 +57,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -79,6 +80,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0796-rotate-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [1528-shuffle-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1528-shuffle-string) |
@@ -142,4 +144,8 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
