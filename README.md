@@ -83,6 +83,7 @@
 | [0022-generate-parentheses](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0796-rotate-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0796-rotate-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1528-shuffle-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1528-shuffle-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3146-permutation-difference-between-two-strings](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3146-permutation-difference-between-two-strings](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -148,4 +150,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
