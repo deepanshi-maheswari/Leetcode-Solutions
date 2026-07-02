@@ -12,6 +12,7 @@ public:
         if(open < n){
             curr.push_back('(');
             solve(curr, open + 1, close, n);
+            //backtrack
             curr.pop_back();
         }
 
@@ -19,7 +20,8 @@ public:
         if(close < open){
             curr.push_back(')');
             solve(curr, open, close + 1, n);
-            curr.pop_back();
+            //backtrack
+            curr.pop_back(); 
         }
     }
     
