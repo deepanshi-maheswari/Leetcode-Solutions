@@ -55,6 +55,7 @@
 | [0112-path-sum](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 | [1929-concatenation-of-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -171,8 +173,18 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
