@@ -97,6 +97,7 @@
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1470-shuffle-the-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1528-shuffle-string) |
@@ -154,6 +155,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0051-n-queens) |
 ## Sliding Window
 |  |
 | ------- |
