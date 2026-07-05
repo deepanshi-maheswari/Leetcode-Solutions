@@ -63,6 +63,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1301-number-of-paths-with-max-score](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -106,6 +107,7 @@
 | [0051-n-queens](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0912-sort-an-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+| [1301-number-of-paths-with-max-score](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1470-shuffle-the-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1528-shuffle-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -189,6 +191,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
