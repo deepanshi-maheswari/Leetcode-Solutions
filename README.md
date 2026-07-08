@@ -64,6 +64,7 @@
 | [0022-generate-parentheses](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0526-beautiful-arrangement](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0526-beautiful-arrangement) |
 | [1301-number-of-paths-with-max-score](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -112,6 +113,7 @@
 | [0051-n-queens](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0526-beautiful-arrangement](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0526-beautiful-arrangement) |
 | [0912-sort-an-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -184,6 +186,7 @@
 | [0040-combination-sum-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0051-n-queens) |
+| [0526-beautiful-arrangement](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0526-beautiful-arrangement) |
 ## Sliding Window
 |  |
 | ------- |
@@ -237,4 +240,12 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0526-beautiful-arrangement) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
