@@ -108,6 +108,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -181,6 +182,7 @@
 | [0022-generate-parentheses](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0051-n-queens) |
 ## Sliding Window
 |  |
