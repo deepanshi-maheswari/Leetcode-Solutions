@@ -128,6 +128,7 @@
 | [0912-sort-an-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1470-shuffle-the-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1528-shuffle-string) |
 | [1655-distribute-repeating-integers](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1655-distribute-repeating-integers) |
@@ -146,6 +147,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [1331-rank-transform-of-an-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1655-distribute-repeating-integers](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1655-distribute-repeating-integers) |
 | [3146-permutation-difference-between-two-strings](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
@@ -190,6 +192,7 @@
 | ------- |
 | [0912-sort-an-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Simulation
