@@ -78,6 +78,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [3312-sorted-gcd-pair-queries](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -89,6 +90,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
@@ -96,6 +98,7 @@
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [3312-sorted-gcd-pair-queries](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -144,6 +147,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -160,6 +164,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1655-distribute-repeating-integers](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1655-distribute-repeating-integers) |
 | [3146-permutation-difference-between-two-strings](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
+| [3312-sorted-gcd-pair-queries](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -186,6 +191,7 @@
 |  |
 | ------- |
 | [1655-distribute-repeating-integers](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1655-distribute-repeating-integers) |
+| [3312-sorted-gcd-pair-queries](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Design
 |  |
@@ -303,7 +309,12 @@
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
