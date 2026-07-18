@@ -140,6 +140,7 @@
 | [1288-remove-covered-intervals](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1528-shuffle-string) |
 | [1655-distribute-repeating-integers](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1655-distribute-repeating-integers) |
