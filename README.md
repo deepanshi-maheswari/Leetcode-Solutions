@@ -99,6 +99,7 @@
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -145,6 +146,7 @@
 | [0238-product-of-array-except-self](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0526-beautiful-arrangement](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0526-beautiful-arrangement) |
 | [0605-can-place-flowers](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1260-shift-2d-grid](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
@@ -224,6 +226,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
