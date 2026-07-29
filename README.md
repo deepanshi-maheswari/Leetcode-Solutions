@@ -303,6 +303,7 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0203-remove-linked-list-elements](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 ## Topological Sort
 |  |
 | ------- |
@@ -362,4 +363,8 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
