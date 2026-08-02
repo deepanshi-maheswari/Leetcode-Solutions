@@ -69,6 +69,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0486-predict-the-winner](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0526-beautiful-arrangement](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0526-beautiful-arrangement) |
+| [0877-stone-game](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1655-distribute-repeating-integers](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1655-distribute-repeating-integers) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -102,6 +103,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -156,6 +158,7 @@
 | [0526-beautiful-arrangement](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0526-beautiful-arrangement) |
 | [0605-can-place-flowers](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1260-shift-2d-grid](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
@@ -393,4 +396,5 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
