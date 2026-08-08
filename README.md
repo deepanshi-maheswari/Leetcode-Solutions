@@ -4,6 +4,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Tree
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0520-detect-capital](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0520-detect-capital) |
@@ -422,4 +424,8 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
