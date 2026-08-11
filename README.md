@@ -6,6 +6,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Tree
@@ -168,6 +169,7 @@
 | [0046-permutations](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0084-largest-rectangle-in-histogram](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0238-product-of-array-except-self](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
@@ -415,6 +417,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Recursion
 |  |
@@ -452,4 +455,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
