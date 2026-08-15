@@ -8,6 +8,7 @@
 | [0032-longest-valid-parentheses](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0394-decode-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0901-online-stock-span](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0901-online-stock-span) |
@@ -78,6 +79,7 @@
 | [0022-generate-parentheses](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0486-predict-the-winner](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0526-beautiful-arrangement](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0526-beautiful-arrangement) |
@@ -182,6 +184,7 @@
 | [0051-n-queens](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0238-product-of-array-except-self](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
@@ -347,6 +350,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [1260-shift-2d-grid](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -442,6 +446,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0901-online-stock-span](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
