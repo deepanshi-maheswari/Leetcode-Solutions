@@ -9,6 +9,7 @@
 | [0071-simplify-path](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0394-decode-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0901-online-stock-span](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1019-next-greater-node-in-linked-list](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
@@ -145,6 +146,7 @@
 | [0032-longest-valid-parentheses](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0394-decode-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0520-detect-capital](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
@@ -446,6 +448,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
+| [0394-decode-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
