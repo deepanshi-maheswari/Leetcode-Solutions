@@ -10,6 +10,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0901-online-stock-span](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0901-online-stock-span) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1019-next-greater-node-in-linked-list](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -146,6 +147,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0520-detect-capital](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0796-rotate-string) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
