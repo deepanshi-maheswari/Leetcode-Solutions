@@ -89,6 +89,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [1655-distribute-repeating-integers](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1655-distribute-repeating-integers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -126,6 +127,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1406-stone-game-iii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [1776-car-fleet-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1776-car-fleet-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
@@ -208,6 +210,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1528-shuffle-string) |
+| [1563-stone-game-v](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [1655-distribute-repeating-integers](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1655-distribute-repeating-integers) |
 | [1776-car-fleet-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1776-car-fleet-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -477,6 +480,7 @@
 | [0877-stone-game](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
