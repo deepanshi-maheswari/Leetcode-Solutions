@@ -171,6 +171,7 @@
 | [1528-shuffle-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1528-shuffle-string) |
 | [1768-merge-strings-alternately](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1927-sum-game) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -226,6 +227,7 @@
 | [1776-car-fleet-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1776-car-fleet-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
@@ -461,6 +463,7 @@
 | [0061-rotate-list](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [1768-merge-strings-alternately](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
