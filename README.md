@@ -85,6 +85,7 @@
 | [0032-longest-valid-parentheses](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0486-predict-the-winner](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0526-beautiful-arrangement](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0526-beautiful-arrangement) |
@@ -164,6 +165,7 @@
 | [0022-generate-parentheses](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0071-simplify-path) |
+| [0115-distinct-subsequences](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0520-detect-capital](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0520-detect-capital) |
