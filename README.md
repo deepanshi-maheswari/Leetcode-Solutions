@@ -35,6 +35,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3310-remove-methods-from-project) |
@@ -64,6 +66,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
