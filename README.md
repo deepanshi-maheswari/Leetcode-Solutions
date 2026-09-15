@@ -210,6 +210,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0039-combination-sum) |
@@ -345,6 +346,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0605-can-place-flowers](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -493,6 +495,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0061-rotate-list](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0061-rotate-list) |
