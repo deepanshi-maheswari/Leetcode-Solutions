@@ -180,6 +180,7 @@
 | [0115-distinct-subsequences](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0394-decode-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
@@ -295,6 +296,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0424-longest-repeating-character-replacement](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1331-rank-transform-of-an-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -412,6 +414,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
