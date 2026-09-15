@@ -211,6 +211,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0046-permutations) |
@@ -360,6 +361,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0853-car-fleet](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0853-car-fleet) |
 | [0912-sort-an-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0912-sort-an-array) |
@@ -492,6 +494,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0061-rotate-list](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
