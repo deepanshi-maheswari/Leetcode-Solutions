@@ -241,6 +241,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0853-car-fleet](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0853-car-fleet) |
 | [0877-stone-game](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1260-shift-2d-grid](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
@@ -301,6 +302,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -421,6 +423,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
