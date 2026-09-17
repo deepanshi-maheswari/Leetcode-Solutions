@@ -113,6 +113,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
@@ -249,6 +250,7 @@
 | [0239-sliding-window-maximum](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0486-predict-the-winner](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0526-beautiful-arrangement) |
 | [0560-subarray-sum-equals-k](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
@@ -320,6 +322,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
