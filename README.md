@@ -243,6 +243,7 @@
 | [0046-permutations](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
@@ -416,6 +417,7 @@
 | [0015-3sum](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0853-car-fleet](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0853-car-fleet) |
@@ -679,6 +681,7 @@
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
