@@ -4,9 +4,8 @@ public:
         sort(nums.begin(), nums.end());
         int n = nums.size();
 
-        int ans = nums[0] + nums[1] + nums[2];
-
         int i = 0;
+        int ans = nums[0] + nums[1] + nums[2];
 
         while(i < n - 2){
             int j = i + 1;
@@ -32,7 +31,6 @@ public:
 
             i++;
         }
-
 
         return ans;
     }
