@@ -150,6 +150,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0486-predict-the-winner](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -187,6 +188,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
@@ -328,6 +330,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
