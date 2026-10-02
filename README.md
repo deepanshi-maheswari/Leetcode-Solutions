@@ -654,6 +654,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 ## Nim Game
 |  |
