@@ -170,6 +170,7 @@
 | [1406-stone-game-iii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1563-stone-game-v) |
+| [1688-count-of-matches-in-tournament](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1776-car-fleet-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1776-car-fleet-ii) |
 | [1927-sum-game](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -462,6 +463,7 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
+| [1688-count-of-matches-in-tournament](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
