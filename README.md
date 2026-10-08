@@ -746,4 +746,12 @@
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
