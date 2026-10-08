@@ -11,19 +11,27 @@
 class Solution {
 public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        //when root exist
-        while(root){
-            if(p -> val < root -> val && q -> val < root -> val){
-                root = root -> left;  //left subtree point
-            }
-            else if(p -> val > root -> val && q -> val > root -> val){
-                root = root -> right;  //right subtree point
-            }  
-            else{
-                return root; //split point
-            }
+        
+        //base case
+        if(root == NULL){
+            return NULL;
         }
 
-        return nullptr;
+        if(p->val < root->val && q->val < root->val){
+            //left mai ans h
+            return lowestCommonAncestor(root->left, p, q);
+        }
+        if(p->val > root->val && q->val > root->val){
+            //right mai ans h
+            return lowestCommonAncestor(root->right, p, q);
+        }
+        // if(p->val < root->val && q->val > root->val){
+        //     return root;
+        // }
+        // if(p->val > root->val && q->val < root->val){
+        //     return root;
+        // }
+
+        return root;
     }
 };
