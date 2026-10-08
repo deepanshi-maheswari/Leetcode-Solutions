@@ -584,6 +584,7 @@
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0137-single-number-ii) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0526-beautiful-arrangement](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0526-beautiful-arrangement) |
 | [1386-cinema-seat-allocation](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1655-distribute-repeating-integers](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1655-distribute-repeating-integers) |
