@@ -434,6 +434,7 @@
 | [0225-implement-stack-using-queues](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0707-design-linked-list](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 ## Greedy
 |  |
@@ -571,6 +572,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0707-design-linked-list](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0707-design-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Topological Sort
