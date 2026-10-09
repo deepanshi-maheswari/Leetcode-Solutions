@@ -25,6 +25,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1776-car-fleet-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1776-car-fleet-ii) |
 ## Tree
 |  |
@@ -237,6 +238,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1528-shuffle-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1528-shuffle-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1768-merge-strings-alternately](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -443,6 +445,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
@@ -701,6 +704,7 @@
 | [0678-valid-parenthesis-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Nim Game
 |  |
 | ------- |
