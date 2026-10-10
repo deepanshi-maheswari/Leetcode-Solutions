@@ -21,12 +21,9 @@ public:
             b = b->next;
         }
 
-        if(a->next == NULL && b->next == 0 && a != b) return 0;
-
         if(a->next == NULL){
-            //B LL is bigger
-            //we need to find out how much bigger is.
             int blen = 0;
+
             while(b->next != NULL){
                 blen++;
                 b = b->next;
@@ -36,11 +33,9 @@ public:
                 headB = headB->next;
             }
         }
-
         else{
-            //A LL is bigger
-            //we need to find out how much bigger is.
             int alen = 0;
+
             while(a->next != NULL){
                 alen++;
                 a = a->next;
