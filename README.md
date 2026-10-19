@@ -14,6 +14,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0394-decode-string) |
@@ -198,6 +199,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0227-basic-calculator-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
@@ -245,6 +247,7 @@
 | [0032-longest-valid-parentheses](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
+| [0227-basic-calculator-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0394-decode-string) |
