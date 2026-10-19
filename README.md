@@ -185,6 +185,7 @@
 | [0704-binary-search](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -356,6 +357,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -509,6 +511,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
