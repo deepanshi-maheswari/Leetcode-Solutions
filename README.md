@@ -362,6 +362,7 @@
 | [2029-stone-game-ix](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2293-min-max-game](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2293-min-max-game) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -529,6 +530,7 @@
 | [1260-shift-2d-grid](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1688-count-of-matches-in-tournament](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2293-min-max-game](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2293-min-max-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
