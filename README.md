@@ -13,6 +13,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
@@ -200,6 +201,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
@@ -320,6 +322,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
