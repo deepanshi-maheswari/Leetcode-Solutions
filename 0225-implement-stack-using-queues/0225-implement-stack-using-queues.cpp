@@ -7,27 +7,33 @@ public:
     
     void push(int x) {
         q.push(x);
-        for(int i = 0; i < q.size() - 1; i++){
-            int front = q.front();
+        int n = q.size();
+
+        for(int i = 0; i < n-1; i++){
+            q.push(q.front());
             q.pop();
-            q.push(front);
         }
     }
     
     int pop() {
-        int pop = q.front();
-        q.pop();
-
-        return pop;
-    }
-    
-    int top() {
         int top = q.front();
+        q.pop();
         return top;
     }
     
+    int top() {
+        return q.front();
+    }
+    
     bool empty() {
-        return q.empty();
+        int n = q.size();
+
+        if(n == 0){
+            return true;
+        }
+        else{
+            return false;
+        }
     }
 };
 
