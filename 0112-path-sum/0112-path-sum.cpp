@@ -12,14 +12,36 @@
 class Solution {
 public:
     bool hasPathSum(TreeNode* root, int targetSum) {
-        if(root == nullptr){
+        if(root == NULL){
             return false;
         }
 
-        if(root -> left == nullptr && root -> right == nullptr){
-            return targetSum == root -> val;
+        queue<pair<TreeNode*, int>> q;
+        q.push({root, root->val});
+
+        while(!q.empty()){
+            int n = q.size();
+
+            for(int i = 0; i < n; i++){
+                TreeNode* node = q.front().first;
+                int sum = q.front().second;
+                q.pop();
+
+                if(node->left == NULL && node->right == NULL){
+                    if(sum == targetSum){
+                        return true;
+                    }
+                }
+
+                if(node->left != nullptr){
+                    q.push({node->left, sum + node->left->val});
+                }
+                if(node->right != nullptr){
+                    q.push({node->right, sum + node->right->val});
+                }
+            }
         }
 
-        return hasPathSum(root -> left, targetSum - root-> val) || hasPathSum(root -> right, targetSum - root-> val);
+        return false;
     }
 };
