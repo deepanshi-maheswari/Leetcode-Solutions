@@ -1,16 +1,17 @@
 class Solution {
 public:
     int calculate(string s) {
-        stack<int> st;
-        char sign = '+';
-        int num = 0;
+        int n = s.size();
 
-        for(int i = 0; i < s.size(); i++){
+        stack<int> st;
+        int num = 0;
+        char sign = '+';
+
+        for(int i = 0; i < n; i++){
             if(isdigit(s[i])){
                 num = num * 10 + (s[i] - '0');
             }
-
-            if((!isdigit(s[i]) && s[i] != ' ') || i == s.size() - 1){
+            if((!isdigit(s[i]) && s[i] != ' ') || i == s.size()-1){
                 if(sign == '+'){
                     st.push(num);
                 }
@@ -18,16 +19,16 @@ public:
                     st.push(-num);
                 }
                 else if(sign == '*'){
-                    int top = st.top();
+                    int x = st.top();
                     st.pop();
-                    st.push(num * top);
+                    st.push(x * num);
                 }
                 else if(sign == '/'){
-                    int top = st.top();
+                    int x = st.top();
                     st.pop();
-                    st.push(top / num);
+                    st.push(x / num);
                 }
-
+                
                 sign = s[i];
                 num = 0;
             }
@@ -40,5 +41,6 @@ public:
         }
 
         return ans;
+
     }
 };
