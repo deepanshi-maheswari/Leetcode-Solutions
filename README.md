@@ -34,6 +34,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1776-car-fleet-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1776-car-fleet-ii) |
 ## Tree
 |  |
@@ -384,6 +385,7 @@
 | [1528-shuffle-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1528-shuffle-string) |
 | [1563-stone-game-v](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [1655-distribute-repeating-integers](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1655-distribute-repeating-integers) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1776-car-fleet-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1776-car-fleet-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -563,6 +565,7 @@
 | [0735-asteroid-collision](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1688-count-of-matches-in-tournament](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2293-min-max-game](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2293-min-max-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -831,6 +834,7 @@
 | [0225-implement-stack-using-queues](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Queue
 |  |
 | ------- |
