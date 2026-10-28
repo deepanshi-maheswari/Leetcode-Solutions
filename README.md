@@ -68,6 +68,7 @@
 | [0617-merge-two-binary-trees](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0965-univalued-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -95,6 +96,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0938-range-sum-of-bst](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0965-univalued-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -132,6 +134,7 @@
 | [0617-merge-two-binary-trees](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0965-univalued-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
@@ -219,6 +222,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0938-range-sum-of-bst](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1004-max-consecutive-ones-iii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
