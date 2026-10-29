@@ -27,6 +27,7 @@
 | [0739-daily-temperatures](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
+| [0897-increasing-order-search-tree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0901-online-stock-span](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
@@ -70,6 +71,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0965-univalued-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -100,6 +102,7 @@
 | [0617-merge-two-binary-trees](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0965-univalued-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -140,6 +143,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0965-univalued-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -232,6 +236,7 @@
 | [0704-binary-search](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1004-max-consecutive-ones-iii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
