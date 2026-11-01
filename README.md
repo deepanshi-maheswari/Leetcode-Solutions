@@ -256,6 +256,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -383,6 +384,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
