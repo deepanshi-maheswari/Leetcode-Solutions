@@ -257,6 +257,7 @@
 | [0227-basic-calculator-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -385,6 +386,7 @@
 | [0238-product-of-array-except-self](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
@@ -579,6 +581,7 @@
 | [0075-sort-colors](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0148-sort-list) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0853-car-fleet](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0853-car-fleet) |
 | [0912-sort-an-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0912-sort-an-array) |
