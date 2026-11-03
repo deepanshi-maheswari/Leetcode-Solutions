@@ -165,6 +165,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0965-univalued-binary-tree) |
+| [0994-rotting-oranges](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -407,6 +408,7 @@
 | [0904-fruit-into-baskets](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0994-rotting-oranges](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1260-shift-2d-grid](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
@@ -663,6 +665,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0994-rotting-oranges](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
