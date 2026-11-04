@@ -419,6 +419,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
+| [1389-create-target-array-in-the-given-order](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1406-stone-game-iii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -612,6 +613,7 @@
 | [0258-add-digits](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
+| [1389-create-target-array-in-the-given-order](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1688-count-of-matches-in-tournament](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
