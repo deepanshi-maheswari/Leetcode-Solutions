@@ -319,6 +319,7 @@
 | [0567-permutation-in-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0796-rotate-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0838-push-dominoes](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0838-push-dominoes) |
 | [0856-score-of-parentheses](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -406,6 +407,7 @@
 | [0724-find-pivot-index](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+| [0821-shortest-distance-to-a-character](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0853-car-fleet](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0853-car-fleet) |
 | [0877-stone-game](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -772,6 +774,7 @@
 | [0234-palindrome-linked-list](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0821-shortest-distance-to-a-character](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0838-push-dominoes](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0838-push-dominoes) |
 | [1768-merge-strings-alternately](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
