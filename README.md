@@ -102,6 +102,7 @@
 | [0547-number-of-provinces](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
@@ -165,6 +166,7 @@
 | [0547-number-of-provinces](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0965-univalued-binary-tree) |
 | [0994-rotting-oranges](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
@@ -661,6 +663,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -690,6 +693,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
