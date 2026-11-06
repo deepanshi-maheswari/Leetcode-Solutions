@@ -78,6 +78,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
@@ -312,6 +313,7 @@
 | [0022-generate-parentheses](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0227-basic-calculator-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
@@ -379,6 +381,7 @@
 | [0056-merge-intervals](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -640,6 +643,7 @@
 | [0040-combination-sum-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0526-beautiful-arrangement](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0526-beautiful-arrangement) |
 | [1655-distribute-repeating-integers](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1655-distribute-repeating-integers) |
@@ -683,6 +687,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0994-rotting-oranges](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
