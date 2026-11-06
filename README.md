@@ -282,6 +282,7 @@
 | [2409-count-days-spent-together](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3280-convert-date-to-binary](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3280-convert-date-to-binary) |
 | [3312-sorted-gcd-pair-queries](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -346,6 +347,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3146-permutation-difference-between-two-strings](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
+| [3280-convert-date-to-binary](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3280-convert-date-to-binary) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
