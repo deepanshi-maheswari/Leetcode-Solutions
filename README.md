@@ -590,6 +590,7 @@
 | [1927-sum-game](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [2027-minimum-moves-to-convert-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2027-minimum-moves-to-convert-string) |
 | [2029-stone-game-ix](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
+| [2429-minimize-xor](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2429-minimize-xor) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -760,6 +761,7 @@
 | [0526-beautiful-arrangement](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0526-beautiful-arrangement) |
 | [1386-cinema-seat-allocation](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1655-distribute-repeating-integers](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1655-distribute-repeating-integers) |
+| [2429-minimize-xor](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2429-minimize-xor) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
