@@ -346,6 +346,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2027-minimum-moves-to-convert-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2027-minimum-moves-to-convert-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2399-check-distances-between-same-letters](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2399-check-distances-between-same-letters) |
 | [2409-count-days-spent-together](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -454,6 +455,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2293-min-max-game](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2293-min-max-game) |
 | [2347-best-poker-hand](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2347-best-poker-hand) |
+| [2399-check-distances-between-same-letters](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2399-check-distances-between-same-letters) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -512,6 +514,7 @@
 | [1386-cinema-seat-allocation](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1655-distribute-repeating-integers](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1655-distribute-repeating-integers) |
 | [2347-best-poker-hand](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2347-best-poker-hand) |
+| [2399-check-distances-between-same-letters](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2399-check-distances-between-same-letters) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
