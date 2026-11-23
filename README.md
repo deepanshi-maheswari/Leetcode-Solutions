@@ -273,6 +273,7 @@
 | [0523-continuous-subarray-sum](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [0970-powerful-integers](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0970-powerful-integers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1406-stone-game-iii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
@@ -512,6 +513,7 @@
 | [0567-permutation-in-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
+| [0970-powerful-integers](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0970-powerful-integers) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -814,6 +816,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0970-powerful-integers](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0970-powerful-integers) |
 | [1291-sequential-digits](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/1291-sequential-digits) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
