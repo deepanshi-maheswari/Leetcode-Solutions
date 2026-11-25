@@ -197,6 +197,7 @@
 | [0509-fibonacci-number](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0526-beautiful-arrangement](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0526-beautiful-arrangement) |
 | [0678-valid-parenthesis-string](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0838-push-dominoes](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0838-push-dominoes) |
 | [0877-stone-game](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
@@ -426,6 +427,7 @@
 | [0724-find-pivot-index](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0821-shortest-distance-to-a-character](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0853-car-fleet](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0853-car-fleet) |
 | [0877-stone-game](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0877-stone-game) |
