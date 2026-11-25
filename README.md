@@ -186,6 +186,7 @@
 | [0032-longest-valid-parentheses](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -265,6 +266,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0258-add-digits) |
@@ -971,5 +973,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/deepanshi-maheswari/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
